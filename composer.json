@@ -16,7 +16,9 @@
         "php": ">=5.3.0"
         
     },
-    "psr-4": {
-        "Designandsuch\\Alfredhelp\\": "src/"
+    "autoload": {
+        "psr-4": {
+            "Designandsuch\\Alfredhelp\\": "src/"
+        }
     }
 }
