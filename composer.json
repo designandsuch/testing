@@ -1,0 +1,6 @@
+{
+  "name" : "designandsuch/testing",
+  "description": "My first Composer project",
+  "require": { },
+  "minimum-stability": "dev"
+}
